@@ -1,12 +1,5 @@
 # Jak wypełnić plik .env.local
 
-## 📍 Lokalizacja pliku
-
-Plik `.env.local` znajduje się tutaj:
-```
-C:\Users\Wojtek\Documents\GitHub\mini-kanban\.env.local
-```
-
 **Otwórz go w edytorze tekstu** (Notepad, VS Code, itp.)
 
 ## ✏️ Jak wypełnić
@@ -38,8 +31,8 @@ C:\Users\Wojtek\Documents\GitHub\mini-kanban\.env.local
 Otwórz plik `.env.local` i wypełnij tak:
 
 ```env
-VITE_SUPABASE_URL=https://xyzabc123.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh5emFiYzEyMyIsInJvbGUiOiJhbm9uIiwiaWF0IjoxNjE2MjM5MDIyLCJleHAiOjE5MzE4MTUwMjJ9.abc123def456ghi789jkl012mno345pqr678stu901vwx234yz
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
 ```
 
 **⚠️ WAŻNE:**
